@@ -21,10 +21,3 @@ variable "azs" {
 }
 
 
-variable "access" {
-
-}
-
-variable "secret" {
-
-}
